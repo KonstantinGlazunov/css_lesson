@@ -21,11 +21,14 @@
   border-radius: 30px;
 }
 
+
+/* как задать разные значения отступам */
 /* как задать разные значения отступам */
 /* размер элемента padding X2 + border X2 + ширина контента  */
 .purple-box {
   background-color: purple;
   height: 200px;
+
   width: 200px;
   /* первый способ */
   /* margin-top: 20px;
